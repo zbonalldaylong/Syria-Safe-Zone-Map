@@ -5,3 +5,4 @@ A map illustrating balance of forces in Syrian civil war; includes area of Turke
 Uses a combination of creative commons data from Natural Earth, Openstreetmaps, and Mapbox, as well as GeoNames.org, an open-source database of geographic data for global cities and places of interests (dams, airports, historic sites, etc). 
 
 # Output
+![Screenshot of Inflation Graph](InflationGraph.png)
